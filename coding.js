@@ -16,6 +16,9 @@ var ecData = {
     "C00046": { "name": "VIVEK KUMAR  ", "department": "Quality", "email": "vivekshalu1313@gmail.com" },
     "C00049": { "name": "RAJENDER PRASAD    ", "department": "Tool Room", "email": "rajender26166@gmai.com" },
     "C00027": { "name": "RAJENDER SAHAI", "department": "STORE", "email": "rmstorerudrapur@autolek.com" },
+    "C00052":{ "name":"Rajender Prasad","department":"Quality","email": "rajender.prasad@autolek.com" },
+    "C00051": { "name": "Aditya Raj", "department": "Battery", "email": "adityaraj@autolek.com" },
+    "C00050": { "name": "Ratandeep Tripathi", "department": "Battery", "email": "tratandeep@yahoo.com" },
     "INT003": { "name": "VIKASH SINGH", "department": "DIGITALIZATION", "email": "vikash.singh@autolek.com" }
 
     
