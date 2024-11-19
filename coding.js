@@ -19,7 +19,7 @@ var ecData = {
     "C00052":{ "name":"Rajender Prasad","department":"Quality","email": "rajender.prasad@autolek.com" },
     "C00051": { "name": "Aditya Raj", "department": "Battery", "email": "adityaraj@autolek.com" },
     "C00050": { "name": "Ratandeep Tripathi", "department": "Battery", "email": "tratandeep@yahoo.com" },
-    "INT003": { "name": "VIKASH SINGH", "department": "DIGITALIZATION", "email": "vikash.singh@autolek.com" }
+    "C00038": { "name": " Aziz Khan", "department": "Tool Room", "email": "" }
 
     
 
